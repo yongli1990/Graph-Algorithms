@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-	Graph G("case3.csv");
+	Graph G("Example.csv");
 	if(!G.adjacentMatrix.empty())
 	{
 		vector< vector<unsigned long> > GSCC=G.getGSCC_Kosaraju();
