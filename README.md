@@ -1,2 +1,2 @@
 # Kosaraju-Algorithm
-BFS &amp; DFS &amp;Kosaraju Algorithm
+This c++ project contains BFS & DFS & SCC-Kosaraju-Algorithm.
